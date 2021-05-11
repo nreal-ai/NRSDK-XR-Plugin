@@ -1,0 +1,16 @@
+{
+	"name": "NRSDK XR Plugin",
+	"version": "1.0.0",
+	"libraryName": "NrealXRPlugin",
+
+	"displays": [
+		{
+			"id": "NRSDK Display"
+		}
+	],
+	"inputs": [
+		{
+			"id": "NRSDK Head Tracking"
+		}
+	]
+}

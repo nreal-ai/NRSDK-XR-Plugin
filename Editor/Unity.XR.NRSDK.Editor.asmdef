@@ -1,0 +1,25 @@
+{
+    "name": "Unity.XR.NRSDK.Editor",
+    "references": [
+        "GUID:b61e31fcaa3ec465fb7e4835ff61bfc2",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.management",
+            "expression": "3.2.0",
+            "define": "XR_MANAGEMENT_320"
+        }
+    ],
+    "noEngineReferences": false
+}
